@@ -1,0 +1,1 @@
+print ('Hello, world! amma pappa...ppp qqq rrr test ');
